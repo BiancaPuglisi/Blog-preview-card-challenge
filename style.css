@@ -18,7 +18,7 @@ body {
 
 .container {
     margin: 0px auto;
-    max-width: 350px;
+    max-width: 340px;
     background-color: var(--white);
     border-radius: 15px;
     padding: 20px;
@@ -38,11 +38,12 @@ body {
     border-radius: 5px;
     text-align: center;
     margin-top: 15px;
-    font-weight: 600;
+    font-weight: 800;
 }
 
-.main h2 {
+.main h1 {
     font-weight: 800;
+    font-size: 1.5rem;
 }
 
 .main p {
